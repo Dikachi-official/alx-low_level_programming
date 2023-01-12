@@ -1,24 +1,20 @@
-        char *arr;
-        unsigned int i;
+#include <stdlib.h>
+#include "main.h"
 
-        if (size == 0)
-        {
-                return (NULL);
-        }
+/**
+ * *malloc_checked - allocates memory using malloc
+ * @b: number of bytes to allocate
+ *
+ * Return: a pointer to the allocated memory
+ */
+void *malloc_checked(unsigned int b)
+{
+	void *ptr;
 
-        arr = malloc(sizeof(char) * size);
+	ptr = malloc(b);
 
-        /* check if malloc was successful */
+	if (ptr == NULL)
+		exit(98);
 
-        if (arr == NULL)
-                return (NULL);
-
-        for (i = 0; i < size; i++)
-        {
-                arr[i] = c;
-        }
-
-        return (arr);
-
+	return (ptr);
 }
-
