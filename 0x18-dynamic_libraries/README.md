@@ -1,7 +1,7 @@
 <h1>0x18. C - Dynamic libraries</h1>
 <hr/>
 <p>
-    This Project was done during Full Stack Software Engineering studies at ALX school The aim is to learn about dynamic and shared libraries in C language
+    This Project was done during Full Stack Software Engineering studies at ALX school The aim is to learn about <strong><i>dynamic and shared libraries in C language</i></strong>
 </p>
 <h3>Technologies</h3>
 <hr/>
