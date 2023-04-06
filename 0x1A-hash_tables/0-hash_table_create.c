@@ -1,6 +1,6 @@
 /*
  * File: 0-hash_table_create.c
- * Auth Muendo Jackson
+ * Auth Dikachi-official
  */
 
 #include "hash_tables.h"
