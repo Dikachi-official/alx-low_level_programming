@@ -5,3 +5,6 @@
 <li>C files are complied using gcc 4.8.4</li>
 <li>C files are written according to C90 standard</li>
 <li>tested on Ubuntu 14.04 LTS</li>
+
+<h2>Authors</h2>
+<li>Dikachi-official</li>
