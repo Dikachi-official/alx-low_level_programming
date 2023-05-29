@@ -1,6 +1,6 @@
-: Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+
 
 General<hr/>
 -Look for the right source of information online
@@ -20,3 +20,5 @@ General<hr/>
 -What is a system call
 
 -What is the difference between a function and a system call
+
+<h3>AUTHOR </h3>
