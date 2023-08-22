@@ -1,4 +1,4 @@
-<h1>0x1A. C - Hash tables</h1>
+<h2>0x1A. C - Hash tables</h2>
 <p>This Project was done during Full Stack Software Engineering studies at ALX school The aim is to learn how to implement Hash Tables with C language</p>
 
 <h2>Technologies</h2>
