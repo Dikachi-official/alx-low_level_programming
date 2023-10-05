@@ -6,5 +6,5 @@
 <li>C files are written according to C90 standard</li>
 <li>tested on Ubuntu 14.04 LTS</li>
 
-<h2>Authors</h2>
+<h2>Author</h2>
 <li>Dikachi-official</li>
